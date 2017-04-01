@@ -13,6 +13,12 @@
 
 MagicMirror² focuses on a modular plugin system and uses [Electron](http://electron.atom.io/) as an application wrapper. So no more web server or browser installs necessary!
 
+````
+npm install;
+DISPLAY=:0 npm start;
+````
+
+
 ## Table Of Contents
 
 - [Usage](#usage)
